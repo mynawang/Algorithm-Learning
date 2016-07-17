@@ -1,3 +1,5 @@
+package com.sedion.mynawang.sort;
+
 import java.util.Scanner;
 
 /**
