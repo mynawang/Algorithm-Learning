@@ -8,7 +8,6 @@ import java.util.Scanner;
  * @create 2016-07-17 14:33
  */
 public class BubbleSort {
-
     public static void main(String[] args) {
         int[] arrays     = new int[100];                            // 数组数量
         int inputNum     = 100;                                     // 输入数量
@@ -34,5 +33,4 @@ public class BubbleSort {
         }
         System.exit(0);
     }
-
 }
