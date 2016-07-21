@@ -10,7 +10,7 @@ Algorithm-Learning/
 ├── com.sedion.mynawang.sort/
 │   ├── SimpleBucketSort                        简单桶排序
 │   ├── BubbleSort                              冒泡排序
-│   └── SingletonEnum                           枚举（线程安全、懒加载、JDK1.5之后）
+│   └── QuickSort                               快速排序
 ├── com.sedion.mynawang.other/
 │   ├── other-1
 │   └── other-2
