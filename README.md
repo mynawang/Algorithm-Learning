@@ -11,8 +11,8 @@ Algorithm-Learning/
 │   ├── SimpleBucketSort                        简单桶排序
 │   ├── BubbleSort                              冒泡排序
 │   └── QuickSort                               快速排序
-├── com.sedion.mynawang.other/
-│   ├── other-1
+├── com.sedion.mynawang.othqueuer/
+│   ├── BasicQueue                              简单队列
 │   └── other-2
 └── com.sedion.mynawang.other1/
 ```
